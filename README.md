@@ -64,9 +64,9 @@ Export the report or specific visuals as needed, or publish the report to the Po
 ## Data Model
 The underlying data model is structured to efficiently support financial analysis. It typically includes:
 
--Transaction Data: Records of revenue and expenses with dates, amounts, and relevant categories.
--Financial Categories: A dimension table that categorizes transactions (e.g., revenue streams, expense types).
--Calendar Table: Supports time intelligence functions such as month-over-month comparisons, quarter analysis, and year-to-date calculations.
+- Transaction Data: Records of revenue and expenses with dates, amounts, and relevant categories.
+- Financial Categories: A dimension table that categorizes transactions (e.g., revenue streams, expense types).
+- Calendar Table: Supports time intelligence functions such as month-over-month comparisons, quarter analysis, and year-to-date calculations.
 A star schema is used to ensure fast and accurate aggregations and drill-down capabilities.
 
 ## Key Insights
