@@ -17,6 +17,7 @@ This repository contains a Power BI report (`Financial sample.pbix`) that provid
 
 ## Overview
 
+![image alt](https://github.com/Softechanalytics/Yearly_Sales_Analysis/blob/fc0f1fae1593717be1f76b8ca3b88e318aaac6f2/Financialreport%20dashboard.png)
 The **Financial Analysis Dashboard** leverages Power BI to offer an in-depth look at financial performance. It covers key aspects such as revenue trends, expense breakdowns, profit margins, and other critical financial indicators. This report is ideal for financial analysts, managers, and business stakeholders who need to monitor and improve financial performance.
 
 ---
